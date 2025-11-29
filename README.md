@@ -6,7 +6,7 @@
 New Era University
 
 <p align="center">
-  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="mailto:johnmichaelsoriano76@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/your-profile">LinkedIn</a> •
   <a href="https://github.com/Gizmo-Channel">GitHub</a>
 </p>
