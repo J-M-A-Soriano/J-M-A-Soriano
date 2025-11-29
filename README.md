@@ -57,11 +57,3 @@ Motivated IT student with a focus on software development and computer science f
 
 * **[Certification Name]** – *Issuing Organization* (Year)
 * **[Certification Name]** – *Issuing Organization* (Year)
-
----
-
-<br />
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gizmo-Channel&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gizmo-Channel&layout=compact&theme=graywhite&hide_border=true&hide_title=true" height="150" alt="languages graph" />
-</div>
