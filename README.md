@@ -55,5 +55,5 @@ Motivated IT student with a focus on software development and computer science f
 
 ## Certifications
 
-* **[Certification Name]** – *Issuing Organization* (Year)
+<a href="[mailto:johnmichaelsoriano76@gmail.com](https://courses.cognitiveclass.ai/certificates/f85a541c19b34e0bb8cb84f9b638c142)">https://courses.cognitiveclass.ai/certificates/f85a541c19b34e0bb8cb84f9b638c142</a>
 * **[Certification Name]** – *Issuing Organization* (Year)
