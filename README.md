@@ -56,4 +56,4 @@ Motivated IT student with a focus on software development and computer science f
 ## Certifications
 
 * **[SQL and Relational Databases 101]** – *Cognitive Class* (December 1, 2025)
-  https://courses.cognitiveclass.ai/certificates/f85a541c19b34e0bb8cb84f9b638c142
+  <a target="_blank">https://courses.cognitiveclass.ai/certificates/f85a541c19b34e0bb8cb84f9b638c142</a>
