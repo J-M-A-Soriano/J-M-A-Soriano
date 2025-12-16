@@ -61,3 +61,5 @@ Motivated IT student with a focus on software development and computer science f
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBB3CB3DAF3F3AD6DCD03DF95FA32E587870576E1CD75BF727D01DAA748F6DD7" target="_blank">View Badge</a>
 * **[Oracle Data Platform 2025 Certified Foundations Associate]** – *Oracle* (December 14, 2025)
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=15B28E2D2C3F40F30858BABD53C3178F7F15B1C28AF645B3F8023B499D9FD402" target="_blank">View Badge</a>
+* **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate]** – *Oracle* (December 16, 2025)
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=637EF6B40C4F3C4672ED8E8E11A46EFF79945E239F61FF72CE0B325370127765" target="_blank">View Badge</a>
