@@ -58,15 +58,10 @@ Motivated IT student with a focus on software development and computer science f
 
 - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f85a541c19b34e0bb8cb84f9b638c142)** – *Cognitive Class* (December 1, 2025)
 
+- **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/26c99b5e957f49779aeae8bf63d0a7bc)** – *Cognitive Class*
+
 - **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBB3CB3DAF3F3AD6DCD03DF95FA32E587870576E1CD75BF727D01DAA748F6DD7)** – *Oracle* (December 5, 2025)
 
 - **[Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=15B28E2D2C3F40F30858BABD53C3178F7F15B1C28AF645B3F8023B499D9FD402)** – *Oracle* (December 14, 2025)
 
 - **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=637EF6B40C4F3C4672ED8E8E11A46EFF79945E239F61FF72CE0B325370127765)** – *Oracle* (December 16, 2025)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-M-A-Soriano&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-A-Soriano&layout=compact&theme=dark&hide_border=true)
