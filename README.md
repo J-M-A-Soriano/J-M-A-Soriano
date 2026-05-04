@@ -24,7 +24,7 @@ Motivated IT student with a focus on software development and computer science f
 
 **Bachelor of Science in Information Technology**
 **New Era University** | *Quezon City, Philippines*
-*2023 – Present (Expected Graduation: 2027)*
+*2023 – Present (Expected Graduation: 2028)*
 
 - **Current Standing:** 2nd Year
 - **Key Focus:** Object-Oriented Programming, Data Structures, Web Development
