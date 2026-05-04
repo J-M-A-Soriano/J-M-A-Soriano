@@ -58,7 +58,7 @@ Motivated IT student with a focus on software development and computer science f
 
 - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f85a541c19b34e0bb8cb84f9b638c142)** – *Cognitive Class* (December 1, 2025)
 
-- **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/26c99b5e957f49779aeae8bf63d0a7bc)** – *Cognitive Class*
+- **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/26c99b5e957f49779aeae8bf63d0a7bc)** – *Cognitive Class* (May 4, 2026)
 
 - **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBB3CB3DAF3F3AD6DCD03DF95FA32E587870576E1CD75BF727D01DAA748F6DD7)** – *Oracle* (December 5, 2025)
 
