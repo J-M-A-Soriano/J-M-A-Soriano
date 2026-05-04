@@ -7,7 +7,7 @@
 **New Era University** · Quezon City, Philippines
 
 [![Email](https://img.shields.io/badge/Email-johnmichaelsoriano76%40gmail.com-black?style=flat-square&logo=gmail)](mailto:johnmichaelsoriano76@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)]()
 [![GitHub](https://img.shields.io/badge/GitHub-J--M--A--Soriano-black?style=flat-square&logo=github)](https://github.com/J-M-A-Soriano)
 
 </div>
