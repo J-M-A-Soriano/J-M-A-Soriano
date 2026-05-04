@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/New_Era_University_logo.png/200px-New_Era_University_logo.png" width="100" alt="New Era University Logo" />
+<img src="https://neu.edu.ph/main/assets/images/webp/neulogo.webp" width="100" alt="New Era University Logo" />
 
 # John Michael Angelo B. Soriano
 ### 2nd Year College Student | Information Technology | Software Development
