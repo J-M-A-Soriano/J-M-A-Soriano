@@ -14,13 +14,13 @@
 
 ---
 
-## 👤 Professional Summary
+## Professional Summary
 
 Motivated IT student with a focus on software development and computer science fundamentals. Currently building expertise in Java programming, web technologies, and database management. Dedicated to writing clean, efficient code and applying critical thinking to solve complex problems.
 
 ---
 
-## 🎓 Education
+## Education
 
 <img src="https://neu.edu.ph/main/assets/images/webp/neulogo.webp" width="40" align="left" style="margin-right: 12px;" alt="NEU Logo" />
 
@@ -33,7 +33,7 @@ Motivated IT student with a focus on software development and computer science f
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Domain | Stack & Technologies |
 | :--- | :--- |
@@ -44,7 +44,7 @@ Motivated IT student with a focus on software development and computer science f
 
 ---
 
-## 💡 Core Competencies
+## Core Competencies
 
 - **Adaptability:** Able to learn new technologies and workflows quickly in changing environments.
 - **Active Listening:** Focused on understanding requirements and feedback clearly to reduce errors.
@@ -54,7 +54,7 @@ Motivated IT student with a focus on software development and computer science f
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f85a541c19b34e0bb8cb84f9b638c142)** – *Cognitive Class* (December 1, 2025)
 
