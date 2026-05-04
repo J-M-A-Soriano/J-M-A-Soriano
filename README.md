@@ -22,7 +22,7 @@ Motivated IT student with a focus on software development and computer science f
 
 ## 🎓 Education
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/New_Era_University_logo.png/200px-New_Era_University_logo.png" width="40" align="left" style="margin-right: 12px;" alt="NEU Logo" />
+<img src="https://neu.edu.ph/main/assets/images/webp/neulogo.webp" width="40" align="left" style="margin-right: 12px;" alt="NEU Logo" />
 
 **Bachelor of Science in Information Technology**
 **New Era University** | *Quezon City, Philippines*
@@ -70,11 +70,3 @@ Motivated IT student with a focus on software development and computer science f
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-M-A-Soriano&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-M-A-Soriano&layout=compact&theme=dark&hide_border=true)
-
----
-
-<div align="center">
-  <img src="YOUR_PHOTO_URL_HERE" width="150" style="border-radius: 50%;" alt="Profile Photo" />
-  <br/>
-  <sub>⭐ Feel free to connect with me!</sub>
-</div>
